@@ -1,0 +1,5 @@
+Apple___Black_rot
+Apple___healthy
+Corn___Cercospora_leaf_spot
+Corn___healthy
+...
